@@ -21,7 +21,6 @@ public class boj2230 {
             arr[i] = Integer.parseInt(br.readLine());
         }
 
-        System.out.println(Arrays.toString(arr));
         /* 정렬 메서드 */
         Arrays.sort(arr);
 
